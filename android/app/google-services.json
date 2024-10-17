@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473177322170",
+    "project_id": "sp12-cabb9",
+    "storage_bucket": "sp12-cabb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473177322170:android:5e620f17b9b8be059c4883",
+        "android_client_info": {
+          "package_name": "com.example.gk_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvEIxdR_aeMzUrLutiumHapc87NFcSfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
